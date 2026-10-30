@@ -1,4 +1,4 @@
-# paper-rag
+# rag
 
 RAG pipeline that extracts **user-chosen fields** from **multiple scientific papers**
 and returns a table with **references** (paper + page) for every value.
