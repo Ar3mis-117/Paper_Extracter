@@ -1,8 +1,0 @@
-pymupdf
-sentence-transformers
-faiss-cpu
-google-genai
-streamlit
-pandas
-python-dotenv
-pytest
