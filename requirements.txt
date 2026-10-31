@@ -1,0 +1,10 @@
+streamlit
+pandas
+openpyxl
+numpy
+pymupdf4llm
+faiss-cpu
+rank-bm25
+sentence-transformers
+google-genai
+pydantic>=2
